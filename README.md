@@ -2,7 +2,7 @@
 ```php
 <?php
 namespace VedavithRavula;
-class About extends Me
+class ProfessionalInsight extends AboutMe
 {
     public function getCurrentWorkplace(): array
     {
