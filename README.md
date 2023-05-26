@@ -8,8 +8,8 @@ class ProfessionalInsight extends AboutMe
     {
         return [
             'workplace' => [
-                'company' => 'AbhiBus, An IXIGO Company',
-                'position' => 'Software Engineer - II'         
+                'company' => 'Genpact',
+                'position' => 'Lead Consultant'         
             ]
         ];
     }
