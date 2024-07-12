@@ -13,6 +13,7 @@ class ProfessionalInsight extends AboutMe
             ]
         ];
     }
+
     public function getDailyKnowledge(): array
     {
         return [
@@ -26,6 +27,7 @@ class ProfessionalInsight extends AboutMe
             EntityFramework::class
         ];
     }
+
     public function getFutureGoal(): string
     {
         return 'To contribute to open source.';
