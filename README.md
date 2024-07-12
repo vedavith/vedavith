@@ -22,6 +22,7 @@ class ProfessionalInsight extends AboutMe
             Laravel::class,
             Symfony::class,
             React::class,
+            Flutter::class,
             EntityFramework::class
         ];
     }
